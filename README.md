@@ -1,6 +1,6 @@
 # drug_discovery_app
 
-- App modified by-Chanin Nantasenamat(http://medium.dataprofessor.org aka Data Professor(http://youtube.com/dataprofessor)
+- App modified by-Chanin Nantasenamat(http://medium.dataprofessor.org) aka Data Professor(http://youtube.com/dataprofessor)
 - Original app by-Justin Chavez(https://blog.reverielabs.com/building-web-applications-from-python-scripts-with-streamlit/)
 
 
