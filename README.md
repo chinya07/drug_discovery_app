@@ -5,8 +5,6 @@
 - App modified by-Chanin Nantasenamat(https://github.com/dataprofessor/drugdiscovery) aka Data Professor(http://youtube.com/dataprofessor)
 - App re-modified by me
 
-This web app is an interactive catalog of FDA-approved drugs that displays the chemical structure of the molecule along with their molecular properties. Particularly, the app will allow us to filter molecules by their molecular properties (Lipinski's descriptors consisting of molecular weight, solubility (LogP), number of hydrogen bond donors and number of hydrogen bond acceptors).
-
 During drug discovery, lipophilicity and molecular weight are often increased in order to improve the affinity and selectivity of the drug candidate. Hence it is often difficult to maintain drug-likeness (i.e., RO5 compliance) during hit and lead optimization. Hence it has been proposed that members of screening libraries from which hits are discovered should be biased toward lower molecular weight and lipophility so that medicinal chemists will have an easier time in delivering optimized drug development candidates that are also drug-like. Hence the rule of five has been extended to the rule of three (RO3) for defining lead-like compounds.That is why I have simply modified this app and added these additional features and thresholds.
 
 As I am not expert in this field and if you want to know more in detail, I have provided a wikipedia link which you can refer-
